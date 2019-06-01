@@ -1,0 +1,15 @@
+header#main-header {
+      height: 60px;
+      width: 100%;
+      background: rgb(109, 36, 36);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 18px;
+ }
+
+header#main-header a{
+      color: #f1f1f1;
+      font-weight: bold;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
